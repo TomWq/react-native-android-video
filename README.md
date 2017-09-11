@@ -1,2 +1,2 @@
 # react-native-android-video
-第一次创建一个组件试试!
+一个关于react-native 安卓端的视频播放组件
